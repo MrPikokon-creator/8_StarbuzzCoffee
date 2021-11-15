@@ -1,6 +1,6 @@
 using System;
 
-namespace StarbuzzCoffee
+namespace StarbuzzCoffee.Beverages
 {
     public class Tea : CaffeineBeverage
     {
